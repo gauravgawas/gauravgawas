@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gaurav Gawas
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently doing my graduation in IT engineering
+- 💞️ I’m looking to collaborate on web development based projects
+- 📫 Connect me on 9623617502
